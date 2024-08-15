@@ -72,3 +72,7 @@ image_paths = [
     "C:/Habsy/6_coupons.png"
 ]
 ```
+
+## Output
+Here are the coupons extracted from the script
+https://drive.google.com/drive/folders/10NADP_TMNrzGTrHePLcJOh8SWXdft1E7?usp=sharing
